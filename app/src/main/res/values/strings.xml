@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">NewsNow</string>
+    <string name="register_now">Register Now</string>
+    <string name="login">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="logout">Logout</string>
+
+    <string name="Password">Password\n</string>
+    <string name="email">Email\n</string>
+
+
+    <string name="click_to_register">Click here to register</string>
+
+    <string name="username">Username</string>
+
+    <string name="confirm_password">Confirm Password</string>
+    <string name="DateOfBirth">Date of Birth</string>
+    <string name="click_to_login">Click here to login</string>
+    <string name="register">Register</string>
+
+
+    <!-- Add more strings as needed -->
+</resources>
